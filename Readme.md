@@ -2,7 +2,7 @@
 
 # Hey, I'm Omar Sanad 👋
 
-### Full-Stack Software Engineer
+### Software Engineer · Full-Stack Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+production-ready+web+platforms;Turning+business+requirements+into+code;From+architecture+to+cloud+deployment" alt="Typing introduction">
 
@@ -16,8 +16,10 @@
 🛒 Built e-commerce, CRM, ERP, delivery-management, and reservation platforms  
 🧩 I bridge **business requirements, software architecture, and implementation**  
 🚀 Experienced across development, testing, containerization, and deployment  
+🏗️ Experienced in translating requirements into technical specifications, **user stories**, **BPMN**, and **UML**
 🤖 Created an AI-assisted workflow that reduced token-related costs by **60%+**  
 🎓 Master's graduate in Information Systems Software Engineering from **VILNIUS TECH**
+🌍 Proficient in **English**, **French**, and **Arabic**
 
 ## 🌍 Connect With Me
 

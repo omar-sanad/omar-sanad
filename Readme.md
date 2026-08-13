@@ -17,9 +17,9 @@
 🧩 I bridge **business requirements, software architecture, and implementation**  </br>
 🚀 Experienced across development, testing, containerization, and deployment  </br>
 🏗️ Experienced in translating requirements into technical specifications, **user stories**, **BPMN**, and **UML** </br>
-🤖 Created an AI-assisted workflow that reduced token-related costs by **60%+**  
-</br>🎓 Master's graduate in Information Systems Software Engineering from **VILNIUS TECH**
-</br>🌍 Proficient in **English**, **French**, and **Arabic**
+🤖 Created an AI-assisted workflow that reduced token-related costs by **60%+**  </br>
+🎓 Master's graduate in Information Systems Software Engineering from **VILNIUS TECH**</br>
+🌍 Proficient in **English**, **French**, and **Arabic**
 
 ## 🌍 Connect With Me
 

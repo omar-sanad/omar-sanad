@@ -18,8 +18,8 @@
 🚀 Experienced across development, testing, containerization, and deployment  
 🏗️ Experienced in translating requirements into technical specifications, **user stories**, **BPMN**, and **UML** 
 🤖 Created an AI-assisted workflow that reduced token-related costs by **60%+**  
-🎓 Master's graduate in Information Systems Software Engineering from **VILNIUS TECH**
-🌍 Proficient in **English**, **French**, and **Arabic**
+</br>🎓 Master's graduate in Information Systems Software Engineering from **VILNIUS TECH**
+</br>🌍 Proficient in **English**, **French**, and **Arabic**
 
 ## 🌍 Connect With Me
 

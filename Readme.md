@@ -50,14 +50,10 @@
 
 <div align="center">
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omar-sanad&theme=github_dark"
-  alt="Omar Sanad's GitHub profile statistics"
-/>
-
-<img height="165" src="https://streak-stats.demolab.com?user=omar-sanad&theme=github-dark-blue&hide_border=true" alt="Omar Sanad's GitHub contribution streak">
-
-</div>
+<p align="center">
+  <img height="130" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omar-sanad&theme=github_dark" alt="GitHub profile statistics">
+  <img height="130" src="https://streak-stats.demolab.com/?user=omar-sanad&theme=github-dark-blue&hide_border=true" alt="GitHub streak">
+</p>
 
 <div align="center">
 

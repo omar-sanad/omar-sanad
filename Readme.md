@@ -12,11 +12,11 @@
 
 ## 💫 About Me
 
-🌐 Full-stack engineer with **2+ years of professional experience**  
-🛒 Built e-commerce, CRM, ERP, delivery-management, and reservation platforms  
-🧩 I bridge **business requirements, software architecture, and implementation**  
-🚀 Experienced across development, testing, containerization, and deployment  
-🏗️ Experienced in translating requirements into technical specifications, **user stories**, **BPMN**, and **UML** 
+🌐 Full-stack engineer with **2+ years of professional experience**  </br>
+🛒 Built e-commerce, CRM, ERP, delivery-management, and reservation platforms  </br>
+🧩 I bridge **business requirements, software architecture, and implementation**  </br>
+🚀 Experienced across development, testing, containerization, and deployment  </br>
+🏗️ Experienced in translating requirements into technical specifications, **user stories**, **BPMN**, and **UML** </br>
 🤖 Created an AI-assisted workflow that reduced token-related costs by **60%+**  
 </br>🎓 Master's graduate in Information Systems Software Engineering from **VILNIUS TECH**
 </br>🌍 Proficient in **English**, **French**, and **Arabic**
